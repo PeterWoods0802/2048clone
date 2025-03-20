@@ -1,6 +1,3 @@
-Below is an example of a GitHub README file in Markdown format that provides instructions on how to run the 2048 clone using tkinter.
-
-```markdown
 # 2048 Game Clone
 
 This is a Python implementation of the popular 2048 game built using the tkinter library. Enjoy sliding and merging the tiles to reach 2048!
